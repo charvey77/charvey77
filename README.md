@@ -1,5 +1,5 @@
 Hello! I'm Chris Harvey (@charvey77). I've been a developer for 20+ years in varying industries.
-- Video Games (Lords of the Realm III, Children of the Nile, Caesar IV, Sim City Societies, Lord of the Ring Online)
+- Video Games (Lords of the Realm III, Children of the Nile, Caesar IV, Sim City Societies, Lord of the Rings Online)
 - Aerospace Software - Princeton Satellite Systems
 - Science and Engineering - MathWorks (my current employer)
 
